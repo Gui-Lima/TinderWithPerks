@@ -1,0 +1,235 @@
+{ 
+    "name":"level1",
+    "deck":{ 
+       "size":"15",
+       "cards": [
+            {
+                "name" : "Andre",
+                "age"  : "20",
+                "features" : [
+                    {"name":"Futebol"},
+                    {"name":"Praia"}
+                ],
+                "color":{
+                    "a" : 0.9,
+                    "r" : 35,
+                    "g" : 69,
+                    "b" : 139
+                },
+                "imageName" : "Darwin"
+           },
+           {
+            "name" : "Jony Cage",
+            "age"  : "59",
+            "features" : [
+                {"name":"Oculos Escuros"},
+                {"name":"Mortal Kombat"},
+                {"name": "Familia"}
+            ],
+            "color":{
+                "a" : 0.9,
+                "r" : 69,
+                "g" : 139,
+                "b" : 35
+            },
+            "imageName" : "Tim"
+       },
+       {
+                "name" : "Luiza",
+                "age"  : "20",
+                "features" : [
+                    {"name":"Animes"},
+                    {"name":"Comida"}
+                ],
+                "color":{
+                    "a" : 0.9,
+                    "r" : 80,
+                    "g" : 40,
+                    "b" : 20
+                },
+                "imageName" : "Red Knight"
+           },
+           {
+                "name" : "Martha",
+                "age"  : "34",
+                "features" : [
+                    {"name":"Cachorros"}
+                ],
+                "color":{
+                    "a" : 0.9,
+                    "r" : 100,
+                    "g" : 110,
+                    "b" : 100
+                },
+                "imageName" : "Maria 2"
+           },
+           {
+                "name" : "Alan",
+                "age"  : "34",
+                "features" : [
+                    {"name":"Privacidade"},
+                    {"name":"Recife"}
+                ],
+                "color":{
+                    "a" : 0.9,
+                    "r" : 23,
+                    "g" : 45,
+                    "b" : 0
+                },
+                "imageName" : "Super Alex"
+           },
+           {
+                "name" : "Edward",
+                "age"  : "18",
+                "features" : [
+                    {"name":"Alquimia"},
+                    {"name":"Familia"}
+                ],
+                "color":{
+                    "a" : 0.9,
+                    "r" : 133,
+                    "g" : 110,
+                    "b" : 20
+                },
+                "imageName" : "Tim"
+           },
+           {
+                "name" : "Anne",
+                "age"  : "28",
+                "features" : [
+                    {"name":"Pokemon"},
+                    {"name":"Videogame"}
+                ],
+                "color":{
+                    "a" : 0.9,
+                    "r" : 40,
+                    "g" : 80,
+                    "b" : 200
+                },
+                "imageName" : "Maria 2"
+           },
+           {
+                "name" : "MISSINGNO",
+                "age"  : "???",
+                "features" : [
+                    {"name":"???"},
+                    {"name":"???"},
+                    {"name":"remember me?"}
+                ],
+                "color":{
+                    "a" : 0.9,
+                    "r" : 255,
+                    "g" : 255,
+                    "b" : 255
+                },
+                "imageName" : "missingno"
+           },
+           {
+                "name" : "Bruna",
+                "age"  : "28",
+                "features" : [
+                    {"name":"Temaki"}
+                ],
+                "color":{
+                    "a" : 0.9,
+                    "r" : 49,
+                    "g" : 110,
+                    "b" : 100
+                },
+                "imageName" : "Maria"
+           },
+           {
+                "name" : "Caue",
+                "age"  : "31",
+                "features" : [
+                    {"name":"Cavera"},
+                    {"name":"Camisas"}
+                ],
+                "color":{
+                    "a" : 0.9,
+                    "r" : 23,
+                    "g" : 33,
+                    "b" : 100
+                },
+                "imageName" : "Morse 2"
+           },
+           {
+                "name" : "Lula",
+                "age"  : "71",
+                "features" : [
+                    {"name":"Estrela"},
+                    {"name":"Esquerda"}
+                ],
+                "color":{
+                    "a" : 0.9,
+                    "r" : 255,
+                    "g" : 0,
+                    "b" : 0
+                },
+                "imageName" : "Darwin"
+           },
+           {
+                "name" : "Alien",
+                "age"  : "999",
+                "features" : [
+                    {"name":"Fazendas"},
+                    {"name":"Vacas"}
+                ],
+                "color":{
+                    "a" : 0.9,
+                    "r" : 3,
+                    "g" : 255,
+                    "b" : 3
+                },
+                "imageName" : "sans"
+           },
+           {
+                "name" : "Bojack",
+                "age"  : "50",
+                "features" : [
+                    {"name":"Horsin Around"},
+                    {"name":"The 70's..."}
+                ],
+                "color":{
+                    "a" : 0.9,
+                    "r" : 100,
+                    "g" : 110,
+                    "b" : 100
+                },
+                "imageName" : "bojack"
+           },
+           {
+                "name" : "Gandalf",
+                "age"  : "400",
+                "features" : [
+                    {"name":"Cingarro"},
+                    {"name":"Fogos"},
+                    {"name": "Hobbits"}
+                ],
+                "color":{
+                    "a" : 0.9,
+                    "r" : 100,
+                    "g" : 0,
+                    "b" : 100
+                },
+                "imageName" : "Gandalf"
+           },
+           {
+                "name" : "Luiza",
+                "age"  : "20",
+                "features" : [
+                    {"name":"Coracoes"},
+                    {"name":"Claudio"}
+                ],
+                "color":{
+                    "a" : 0.9,
+                    "r" : 35,
+                    "g" : 110,
+                    "b" : 69
+                },
+                "imageName" : "Maria 2"
+           }
+        ]
+    }
+ }
+

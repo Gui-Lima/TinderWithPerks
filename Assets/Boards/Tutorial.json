@@ -1,0 +1,86 @@
+{ 
+    "name":"tutorial",
+    "deck":{ 
+       "size":"5",
+       "cards": [
+            {
+                "name" : "TUTORIAL",
+                "age"  : "20",
+                "features" : [
+                    {"name":"Aqui voce tera as Caracteristicas"},
+                    {"name":"Arraste para a esquerda"}
+                ],
+                "color":{
+                    "a" : 0.9,
+                    "r" : 100,
+                    "g" : 110,
+                    "b" : 0
+                },
+                "imageName" : "Maria 2"
+           },
+           {
+            "name" : "Luisa",
+            "age"  : "21",
+            "features" : [
+                {"name":"Voce acaba de dar um NOPE!"},
+                {"name":"De nope em pessoas que nao se encaixam com seu objetivo"}
+            ],
+            "color":{
+                "a" : 0.9,
+                "r" : 0,
+                "g" : 100,
+                "b" : 100
+            },
+            "imageName" : "Maria"
+            },
+            {
+                "name" : "Borba",
+                "age"  : "35",
+                "features" : [
+                    {"name":"Ao deslizar para a direita, voce da um LIKE"},
+                    {"name":"E INCRIVEL"}
+                ],
+                "color":{
+                    "a" : 0.9,
+                    "r" : 244,
+                    "g" : 30,
+                    "b" : 30
+                },
+                "imageName" : "Morse"
+           },
+           {
+            "name" : "Borbinha",
+            "age"  : "25",
+            "features" : [
+                {"name":"videogame"},
+                {"name":"filmes"}
+            ],
+            "color":{
+                "a" : 0.9,
+                "r" : 100,
+                "g" : 110,
+                "b" : 100
+            },
+            "imageName" : "Blue Knight"
+       },
+       {
+        "name" : "Malu",
+        "age"  : "20",
+        "features" : [
+            {"name":"PRESTE ATENCAO"},
+            {"name":"Seus objetivos nao ficarao visiveis para sempre"},
+            {"name":"Alcance o maior score para Claudio. Boa sorte!"}
+        ],
+        "color":{
+            "a" : 0.9,
+            "r" : 0,
+            "g" : 30,
+            "b" : 200
+        },
+        "imageName" : "Maria"
+}
+
+        ]
+    }
+ }
+
